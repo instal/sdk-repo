@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.instal</groupId>
+  <artifactId>instal-publisher-sdk-recyclerview</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20150116140359</lastUpdated>
+  </versioning>
+</metadata>
