@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.instal</groupId>
       <artifactId>instal-publisher-sdk</artifactId>
-      <version>0.9.9.21</version>
+      <version>0.9.9.22</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
